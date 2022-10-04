@@ -1,0 +1,14 @@
+# bluejay-user 13 TP1A.221005.003 9018821 release-keys
+- manufacturer: 
+- platform: gs101
+- codename: bluejay
+- flavor: bluejay-user
+- release: 13
+- id: TP1A.221005.003
+- incremental: 9018821
+- tags: release-keys
+- fingerprint: google/bluejay/bluejay:13/TP1A.221005.003/9018821:user/release-keys
+- is_ab: true
+- brand: google
+- branch: bluejay-user-13-TP1A.221005.003-9018821-release-keys
+- repo: google_bluejay_dump
